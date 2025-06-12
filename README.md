@@ -1,5 +1,7 @@
 ## 'Olá eu sou o Bruno Fonseca 👋
 
-- 🌱 python
-- 
+- 🌱 python, JS
+- 🖥️ html, css
+- ⛃  MySQL
 - 📫 email: brunofonsecavaz@gmail.com
+
