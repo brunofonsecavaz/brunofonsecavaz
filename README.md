@@ -1,4 +1,4 @@
-## 'Olá eu sou o Bruno Fonseca 👋
+## 'Opa! eu sou o Bruno👋
 
 - 🌱 python, JS
 - 🖥️ html, css
