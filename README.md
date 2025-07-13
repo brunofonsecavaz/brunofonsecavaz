@@ -1,5 +1,5 @@
 ## 'Opa!👋
--Olá! Me chamo Bruno Fonseca e estou em transição de carreira para a área de Desenvolvimento de Software. Atualmente, estou focado em aprender Python e SQL, com o objetivo de atuar como Desenvolvedor.
+-Olá! Me chamo Bruno Fonseca
 
 ## Tecnologias que estou estudando.
 - 🌱 python, sql
