@@ -1,7 +1,6 @@
 ## 'Opa!👋
--Olá! Me chamo Bruno Fonseca
 
-## Tecnologias que estou estudando.
+## Tecnologias que estudo.
 - 🌱 python, sql
 - 🖥️ html, css, js
 - ⛃  MySQL
