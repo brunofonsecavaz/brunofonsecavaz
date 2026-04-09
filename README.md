@@ -1,7 +1,4 @@
 ## 'Opa!👋
-## 
-## Ola me chamo Bruno fonseca,sou um desenvolvedor em início de carreira, com foco em desenvolvimento de software.
-Tenho experiência em projetos práticos envolvendo CRUD, SQL, APIs REST consumo de APIs, automação e versionamento com Git.
 
 ## Tecnologias que estudo
 - 🌱 python, JS, sql.
